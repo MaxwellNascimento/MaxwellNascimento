@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Solucionar probleas, não criar problemas, fazer o que tem que ser feito sem esperar reconhecimento. Habilidade em banco de dados MySQL, linux, Python e Java. Autodidata
+e VBA, que foi onde me apaixonei por tecnologia e programação ao descobrir como automatizar processos com macros no excel. Hoje quero trazer soluções tecnologicas para a vida cotidiana das pessoas, no mundo real.  
 <!--
 **MaxwellNascimento/MaxwellNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
